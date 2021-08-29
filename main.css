@@ -1,0 +1,26 @@
+.imagem-opaca{
+    background: url("./img/logo.jpg");
+    background-size: auto;
+    background-repeat: no-repeat;
+    height: 800px;
+    width: 800px;
+    position: fixed;
+    opacity: 0.35;
+}
+
+.container{
+    max-width: 850px !important;
+}
+
+.conteudo-imagens h1{
+    text-decoration: underline;
+    color: rgb(20, 106, 146);
+}
+
+.type{
+    margin: 10px;
+}
+
+#main-title{
+    color: crimson;
+}
